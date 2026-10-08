@@ -273,21 +273,6 @@ Worker
 Provider de mensagens
 ```
 
-## 🚀 Evoluções recomendadas
-
-Para transformar este projeto em uma API mais próxima de produção:
-
-1. Adicionar PostgreSQL.
-2. Criar tabela de mensagens.
-3. Implementar fila com Redis/RabbitMQ.
-4. Criar worker assíncrono.
-5. Integrar um provedor transacional real.
-6. Adicionar JWT/OAuth2.
-7. Implementar rate limiting.
-8. Adicionar logs estruturados.
-9. Criar CI/CD com GitHub Actions.
-10. Adicionar métricas e observabilidade.
-
 ## 💼 O que este projeto demonstra no portfólio
 
 ```text
